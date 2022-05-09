@@ -1,0 +1,7 @@
+name=input("What's your name")
+age=input("How old are you")
+university=input("What is your university")
+
+print("My name is " + name)
+print("I'am "+ age + (" old "))
+print("I gratuated from" + university)
